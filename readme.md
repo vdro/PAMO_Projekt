@@ -1,28 +1,28 @@
 # Project contains two main processes.
-•	Process one: Request for Business Travel Approval
-•	Process two: Business Travel settlement
+- Process one: Request for Business Travel Approval
+-	Process two: Business Travel settlement
 
-Project Team:
-•	Lukasz Walenski s15585
-•	Tomasz Faldrowicz s16280
+# Project Team:
+-	Lukasz Walenski s15585
+-	Tomasz Faldrowicz s16280
 
-Develompent framework:
-Microsoft Power Platform 
+# Develompent framework:
+- Microsoft Power Platform 
 
-Project scope:
-•	Development of application and testing
-•	Documentation 
-•	AzureDevOps as a tool to monitor Development progress
-•	real data usage
+# Project scope:
+-	Development of application and testing
+-	Documentation 
+-	AzureDevOps as a tool to monitor Development progress
+-	real data usage
 
-Application can be run on any mobile devile(IOS/Android), can be also embeded into Microsoft Teams
-Also will contain features not used in process but for learning purpose
-Main goal of application is to replace typical document management effort in company via automation.
+- Application can be run on any mobile devile(IOS/Android), can be also embeded into Microsoft Teams
+- Also will contain features not used in process but for learning purpose
+- Main goal of application is to replace typical document management effort in company via automation.
 
-Basic Requirements:
-•	Process one: Request for Business Travel Approval
-o	SharePoint list as a database
-o	User creates a Travel Approval with proper information
+# Basic Requirements:
+-	Process one: Request for Business Travel Approval
+-	SharePoint list as a database
+-	User creates a Travel Approval with proper information
 o	Approval is sent to Manager, based on ActiveDirectory
 o	Manager can approve/deline, add comments
 o	After approval, notification is sent to User and next approval is sent to TravelExpenses Team for Final Approval 
