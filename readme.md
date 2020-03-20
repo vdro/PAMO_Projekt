@@ -32,7 +32,10 @@
 -	User can add files, place signature
 -	After sending Settlement (with files and signature) record is no longer visible for user
 -	Signature can be send as attachment, as a pdf or embedded into email body (part of learning)
+
 Process two: Business Travel settlement
 -	Database: CommonDataService
 - Main goal of this process is to create a big report with a signature and attachments.
 - Report should contain fields like from where to where user was traveling, time, mean of transport, expenses, etc
+
+As agred with Pawel Czapiewski - he will receive credentials to PowerPlatform for testing purpose
