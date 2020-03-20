@@ -1,4 +1,4 @@
-Project contains two main processes.
+# Project contains two main processes.
 •	Process one: Request for Business Travel Approval
 •	Process two: Business Travel settlement
 
