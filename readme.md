@@ -33,7 +33,7 @@
 -	After sending Settlement (with files and signature) record is no longer visible for user
 -	Signature can be send as attachment, as a pdf or embedded into email body (part of learning)
 
-Process two: Business Travel settlement
+Process two: Business Travel settlement (Could Be DONE - high risht that process is to complex to be done)
 -	Database: CommonDataService
 - Main goal of this process is to create a big report with a signature and attachments.
 - Report should contain fields like from where to where user was traveling, time, mean of transport, expenses, etc
